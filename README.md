@@ -1,1 +1,1 @@
-# DNA_to_mRNA_to_Protein
+# DNA to mRNA to Protein
