@@ -1,3 +1,10 @@
+# ---------- About this Program ----------
+"""
+Name: DNA to mRNA to Protein
+Creator: Kapilesh Pennichetty
+Description: DNA to mRNA to Protein is a program created by Kapilesh Pennichetty to assist in converting a DNA sequence to an mRNA sequence and amino acids (protein) through the processes of transcription and translation. This program takes user input (DNA sequence) via the Python shell, performs transcription and translation, and returns the corresponding amino acid and mRNA codon as output.
+"""
+
 # ---------- Import Statements ----------
 import sys
 
